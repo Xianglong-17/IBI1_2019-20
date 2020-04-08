@@ -18,10 +18,16 @@ for j in mito_genes:
     k = re.sub(r'\n','',j)
     name=re.sub(r'.+gene:(\S+).+',r'\1',k)
     seq=re.sub(r'.+](\S+)',r'\1',k)
+    seq=seq.replace('A','t')
+    seq=seq.replace('T','a')
+    seq=seq.replace('C','g')
+    seq=seq.replace('G','c')
+    rev=(seq.upper())
     length=len(seq)
-    list1=list1+[name+' '+str(length)+'\n'+seq]
- 
-yfile=open('mito_gene.fa','w')
+    list1=list1+[name+' '+str(length)+' '+rev+' ']
+
+n = input ('please enter the file name')
+yfile=open(n,'w')
 for gene in list1:
     yfile.write(gene+'\n')
 yfile.close()
