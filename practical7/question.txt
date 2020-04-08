@@ -1,0 +1,6 @@
+Question: What is the total number of cases and deaths in China?
+
+Line:54-68
+
+Discussion: Both the number of cases and deaths  have increased, but the growing speed of cases is a lot more faster as time goes by. This shows the virus might affect people easily and quickly, but it takes a period of time to kill people. That is the time we should make use of to save lives.
+Also, the growing speed of cases keeps increasing, telling us the seriousness of the consequence if measures are not taken in time.
