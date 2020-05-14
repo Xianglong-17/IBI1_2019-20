@@ -1,0 +1,4 @@
+The sequence of human and mice has a high level of identity while both of them has a very low level of identity with the random sequence.
+The percentage identity of human sequence and mouse sequence is 89.63963963963964%
+The percentage identity of human sequence and random sequence is 5.4054054054054035%
+The percentage identity of random sequence and mouse sequence is 5.85585585585585%

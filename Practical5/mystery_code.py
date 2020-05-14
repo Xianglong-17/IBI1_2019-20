@@ -1,5 +1,7 @@
 # What does this piece of code do?
 # Answer: Spawn a random prime number between 1 and 100.
+#Correction: The range is between 1 and 10.
+#Reflection: Pay attention to line18.
 
 # Import libraries
 # randint allows drawing a random number, 
