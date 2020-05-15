@@ -63,3 +63,4 @@ xfile.to_excel('Autophagosome.xlsx',
                sheet_name='Autophagosome',
                columns=['id','name','definition','childnodes'])
 # Produce the output.
+print ("Finished.")
