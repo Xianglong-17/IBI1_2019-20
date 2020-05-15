@@ -1,0 +1,4 @@
+During this course, the most important thing I've learned is to achieve different goals using Python, which includes producing plots from data, 
+locating keywords from long strings and so on. 
+I also learned to make full use of others' help. During my practicals, I get many useful tips from different blogs about informatics in the Internet
+and this helps a lot.
